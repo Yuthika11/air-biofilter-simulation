@@ -138,6 +138,5 @@ for (let w of water) {
     fill(0, 0, 200, 150);
     ellipse(w.x, w.y, w.size, w.size * 0.3); // Always draw, even if paused
   }
-
 }
 
